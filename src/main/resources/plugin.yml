@@ -1,0 +1,4 @@
+name: EggSpawnRemover
+version: ${project.version}
+main: ru.bruhabruh.eggspawnremover.Main
+api-version: 1.16
